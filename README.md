@@ -2,9 +2,7 @@
 
 ## Overview
 
-Overview of the statistical analysis:
-The purpose of the analysis is well defined. (5 pt)
-Overview of the analysis: Explain the purpose of this analysis.
+The purpose of this analysis is to utilize Citi Bike data for New York City, to recognize trends that could be applicable elsewhere. Citi Bike is the nation’s largest bicycle sharing service. The business model is centered around quick trips with a focus on convenience. Users can unlock a bicycle, ride to their destination, return the bicycle to any dock, and only pay for the time used. This business model is very successful in New York City and has caught the attention of investors looking to start a similar business in Des Moines, Iowa. By exploring data available for New York City, business decisions can be made with clarity for Des Moines.
 
 ## Results
 
