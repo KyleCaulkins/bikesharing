@@ -34,17 +34,25 @@ This map is used to illustrate the areas of highest demand. The map shows areas 
 
 ![checkout_times](/Images/time_line.png)
 
+The line chart shows the length of time for each bicycle rental trip. The data is clear that short trips of about five minutes are by far the most common.
+
 5. **Trip Duration by Gender**
 
 ![checkout_gender](/Images/gender_line.png)
+
+The line chart shows the length of time for each bicycle rental trip. The data is clear that short trips of about five minutes are by far the most common. The trend holds true for both male and female users. 
 
 6. **Time and Day Peak Use**
 
 ![weekday_trips](/Images/time_heat.png)
 
+A count of bicycle trips is compared each hour across every day of the week in the visualization above. There is a higher use during commuter hours Monday through Friday, and a higher use rate throughout the day on weekends, although it starts later in the morning.
+
 7. **Peak Use by Gender**
 
 ![gender_trips](/Images/gender_heat.png)
+
+A count of bicycle trips is compared each hour across every day of the week in the visualization above. There is a higher use during commuter hours Monday through Friday, and a higher use rate throughout the day on weekends, although it starts later in the morning. The trend holds true when breaking down by gender.
 
 8. **User Type by Day and Gender**
 
