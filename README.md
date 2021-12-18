@@ -10,15 +10,18 @@ The following visualizations were made using *Tableau Public*. By following the 
 
 [link to dashboard](https://public.tableau.com/app/profile/kyle.caulkins/viz/Bikesharing_challenge_16398586389120/CitiBikeSharingNYC?publish=yes)
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 ![total_number](/Images/total_number.png)
 
+The total number of rides adds a frame of reference for magnitude. There are over two million rides being evaluated in this analysis. The use is significant.
+
 ![august_hours](/Images/ride_hours.png)
 
+August is an ideal time for bike riding in a northern climate. The weather is warm, and people spend more time outside, so bike usage is high. This visualization looks at peak hours of use. Daylight times have a significantly higher user rate than dark hours, especially early morning. If maintenance or reorganization of bikes between docking stations needs to take place, recommended time for these actions are between 1:00 AM and 5:00 AM.
+
 ![top_starting](/Images/start_map.png)
+
+This map is used to illustrate the areas of highest demand. The map shows areas where bicycle rides start. Manhattan is clearly an area of large demand and large bicycle use.  
 
 ![checkout_times](/Images/time_line.png)
 
