@@ -12,33 +12,41 @@ The following visualizations were made using *Tableau Public*. By following the 
 
 
 
-1. Total Number of Rides
+1. **Total Number of Rides**
 
 ![total_number](/Images/total_number.png)
 
 The total number of rides adds a frame of reference for magnitude. There are over two million rides being evaluated in this analysis. The use is significant.
 
-2. August Peak Hours
+2. **August Peak Hours**
 
 ![august_hours](/Images/ride_hours.png)
 
 August is an ideal time for bike riding in a northern climate. The weather is warm, and people spend more time outside, so bike usage is high. This visualization looks at peak hours of use. Daylight times have a significantly higher user rate than dark hours, especially early morning. If maintenance or reorganization of bikes between docking stations needs to take place, recommended time for these actions are between 1:00 AM and 5:00 AM.
 
-3. User Starting Locations
+3. **User Starting Locations**
 
 ![top_starting](/Images/start_map.png)
 
 This map is used to illustrate the areas of highest demand. The map shows areas where bicycle rides start. Manhattan is clearly an area of large demand and large bicycle use.  
 
-4. User Checkout Times
+4. **User Trip Duration**
 
 ![checkout_times](/Images/time_line.png)
 
+5. **Trip Duration by Gender**
+
 ![checkout_gender](/Images/gender_line.png)
+
+6. **Time and Day Peak Use**
 
 ![weekday_trips](/Images/time_heat.png)
 
+7. **Peak Use by Gender**
+
 ![gender_trips](/Images/gender_heat.png)
+
+8. **User Type by Day and Gender**
 
 ![user_trips](/Images/day_heat.png)
 
