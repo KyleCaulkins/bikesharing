@@ -6,6 +6,8 @@ The purpose of this analysis is to utilize Citi Bike data for New York City, to 
 
 ## Results
 
+The following visualizations were made using *Tableau Public*. By following the link below, visualizations can be reviewed in further detail, and are available for interactive use. 
+
 [link to dashboard](https://public.tableau.com/app/profile/kyle.caulkins/viz/Bikesharing_challenge_16398586389120/CitiBikeSharingNYC?publish=yes)
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
