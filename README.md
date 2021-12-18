@@ -16,6 +16,20 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
 
 ![total_number](/Images/total_number.png)
 
+![august_hours](/Images/ride_hours.png)
+
+![top_starting](/Images/start_map.png)
+
+![checkout_times](/Images/time_line.png)
+
+![checkout_gender](/Images/gender_line.png)
+
+![weekday_trips](/Images/time_heat.png)
+
+![gender_trips](/Images/gender_heat.png)
+
+![user_trips](/Images/day_heat.png)
+
 ## Summary
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
