@@ -58,6 +58,15 @@ A count of bicycle trips is compared each hour across every day of the week in t
 
 ![user_trips](/Images/day_heat.png)
 
+This visualization displays the user type by day and gender. There is a high use subscribers with the service throughout the weekdays. There also appears to be a large use of the bike sharing service by males.
+
 ## Summary
+
+Overall, this analysis should provide a significant amount of information about how Citi Bike is used in New York City to the Des Moines investors. There appears to be a large amount of use around commuting hours, which would suggest that many of the subscribers to the service are locals and not all tourists. The area of use is in the most heavily populated areas. There also appears to be a larger use of the bike sharing service by males. This information should be useful when deciding on where to start, when to perform maintenance, and what audiences need more targeted marketing. 
+
+Recommendations for further analysis include an additive end location visualization and trip duration by bicycle id additive list. The idea for additive end location is to create a visualization to represent what docks the bicycles are ending up at. There may be certain locations or routes that are being used that are accumulating bikes. This visualization will help address a plan of where to add docks or a plan for redistributing bicycles. The second recommendation is for a trip duration by bicycle id additive list. This will count hours on each bike and will help with targeted maintenance, as well as popular bike styles.
+
+All in all, the business has potential and is likely to attract attention for further investment. The data and interactive visualizations are available to help answer further questions from investors. 
+
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
